@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Mr. Daniel Gwyn, agent for the Spanish pacquet-boats, in relation to Mr. John Russel's charge against him for pretended mismanagement in that imploy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02596</idno>
+            <idno type="STC">Wing C954</idno>
+            <idno type="STC">ESTC R170964</idno>
+            <idno type="EEBO-CITATION">52211918</idno>
+            <idno type="OCLC">ocm 52211918</idno>
+            <idno type="VID">175487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175487)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2738:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Mr. Daniel Gwyn, agent for the Spanish pacquet-boats, in relation to Mr. John Russel's charge against him for pretended mismanagement in that imploy.</title>
+                  <author>Gwyn, Daniel.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Ms. notes in margins; also, portion of text lined through, with handwritten comments below.</note>
+                  <note>Imperfect: stained and creased with some loss of text.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gwyn, Daniel --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Russell, John, --  merchant in Edinburgh --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Fraud --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175487:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <head>THE CASE OF <hi>Daniel Gwyn,</hi> Agent for the Spaniſh Pacquet<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: damage" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ts, in relation to Mr. <hi>John Ruſſel</hi>'s Charge <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>inſt him for pretended Miſmanagement in <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at Imploy.</head>
+            <p>
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>HE ſaid Mr. <hi>Ruſſel</hi> in his Pe<gap reason="illegible: under-inked" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>on hath ch<gap reason="illegible: under-inked" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g'd Mr. <hi>Gwyn</hi> with falſe Muſters on the ſaid Pacqu<gap reason="illegible: under-inked" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: under-inked" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, imbezelling their Stores, extorting Mony from Sailors and others, defraud<g ref="char:EOLhyphen"/>ing the ſaid Ships in their Victualling, and impo<gap reason="illegible: under-inked" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng Salt in ſaid Ships without paying Cuſtoms o<gap reason="illegible: under-inked" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Exciſe, to the gre<gap reason="illegible: under-inked" extent="2 letters">
+                  <desc>••</desc>
+               </gap> abuſe of <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> M<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſty, and wrong to the Sail<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> adva<gap reason="illegible: damage" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>It's humbly hop'd it appear'd before the Committee, that <gap reason="illegible: under-inked" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en were actually in the Service of the ſaid Ships as were charg'd to be <gap reason="illegible: damage" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>id; and generally two or more than were actually charg'd in the Pay<g ref="char:EOLhyphen"/>book, ſerv'd on board, receiving no Wages; and one Man in <gap reason="illegible: under-inked" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ship <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> about four years paſt ſerv'd under another name, and theſe two Men<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Pay was actually apply'd to the defraying contingent Charge, which would have been (if not by this) ſome other way diſcharg'd by th<gap reason="illegible: under-inked" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt-Office. So that tho in ſtrictneſs this may be term'd an irr<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gular M<gap reason="illegible: under-inked" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>
+               <gap reason="illegible: damage" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> (ſeeing the very Man whoſe name was entred, was not <gap reason="illegible: under-inked" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ually <gap reason="illegible: under-inked" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rd) yet the ſame was not to the Prejudice, but Service of the Crown and not to Mr. <hi>Gwyn</hi>'s private Advantage, as the Petition doth <gap reason="illegible: under-inked" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and therefore notwithſtanding the Committee (upon a Diviſion) we<gap reason="illegible: under-inked" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pleas'd to reſolve, That the ſaid Mr. <hi>Gwyn</hi> hath been guilty o<gap reason="illegible: under-inked" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>king falſe Muſters according to the Petition: yet if it appear to <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Honourable Houſe by the Committee Minutes, that herein his Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: damage" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot defrauded, it's humbly hop'd this Honourable Houſe will <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the King</p>
+            <p>
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rties charge Mr. <hi>Gwyn</hi> w<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th importing Salt in the ſaid Ships <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aying either <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtoms or Exciſe, to his great profit.</p>
+            <p>
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſmall quan<gap reason="illegible: damage" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> of Salt were by the Commander and Pur<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible: damage" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>  
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſe Ships, <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ted only for the uſe of thoſe Pacquet-Boats <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at firſt <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ink thoſe ſmall Quantities brought over
+<pb facs="tcp:175487:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 29 -->
+worth Entry, whilſt ſpent in the King's Service; but as ſoon as Mr. <hi>Gwyn</hi> was adviſed both Cuſtoms and Exciſe were due, he did then endeavour to get the beſt information he could, what quantities, and at what times imported, and what their Cuſtoms and Exciſe did amount unto: and ſeeing a great part hereof was imported when the Duties were very low, he did therefore make an Entry only of four weigh and quarter, as imported under the laſt Impoſitions, and for which he paid as much Cuſtoms and Exciſe as all that Salt would have paid, if entred when brought in (altho the Quantity was more) ſeeing much the greate<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part thereof was brought in when no Exciſe was due for the ſame.</p>
+            <p>To prove the pretended Frands in victualling, <hi>Slade</hi> the Purſer de<g ref="char:EOLhyphen"/>clared he gave Mr. <hi>Gwyn</hi> a Receipt for 1100 weight of Pork, when only 600 pound was put on board the old <hi>Spaniſh Expedition.</hi> It was alledg<g ref="char:EOLhyphen"/>ed, Mr. <hi>Gwyn</hi> had charged higher Prices for Victuals than others in thoſe Parts then paid.</p>
+            <p>It did not appear, upon view of all Mr. <hi>Slade</hi>'s Receipts, that ever ſuch a Receipt was by him given, or ſuch a Quantity by <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Gwyn</hi> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> charged; and that whatſoever Proviſion Mr. <hi>Gwyn</hi> had charg'd to the ſaid Ship, was juſtified by proper Vouchers under Mr. <hi>Slade</hi>'s own hand. The ſeveral Proviſions Mr. <hi>Gwyn</hi> bought for theſe Ships was the beſt of the kind, and therefore their Prices might be greater than was paid by others for a worſe ſort; and all thoſe Prices juſtified by proper Vouchers. And it's humbly hoped that ſeveral worthy Members of this Honourable Committee do remember that Mr. <hi>Gwyn</hi> did produce an Abſtract of ſeven years Account of what Butter he had bought for his Majeſty's Service in that time: and (all Charge and <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s conſider'd) he loſt by the Butter he bought upon the King's Account.</p>
+            <p>It's alledg'd, Mr. <hi>Gwyn</hi> extorted Money from Sailors.</p>
+            <p>The Fact appeared to be thus, <hi>viz.</hi> In <hi>November</hi> 1697. Mr. <hi>Gwyn</hi> ad<g ref="char:EOLhyphen"/>vanced of his own Moneys about 600 <hi>Spaniſh</hi> Piſtols, to pay off Sailors then to be diſcharged; and having cull'd of the lighteſt about 30 <hi>l.</hi> and paid them the Captain at or about 4 <hi>l. per</hi> Ounce (and this done, as the Captain prov'd, that the Seamen might receive no light Piſtols) he paid the reſt to the Seamen at 17 <hi>s.</hi> 6 <hi>d.</hi> a piece. Upon change of ſome of theſe into Silver a ſmall loſs was ſuſtained; but others were put off by the Seamen at 18 <hi>s. per</hi> Piſtol. When Mr. <hi>Gwyn</hi> thus advanced theſe Piſtols, he could have paid them in <hi>London</hi> at 18 <hi>s.</hi> a piece; and he dos humbly ſuppoſe not many inſtances can be produced where Agents advanced Money out of their own Pockets to pay Soldiers upon ſuch eaſy terms. How far this may induce your Honours to reſolve the ſaid Mr. <hi>Gwyn</hi> hath been guilty of Extortions from the Sailors (as alledged in the Petition) is humbly ſubmitted to the great Wiſdom and Juſtice of this Honourable Houſe to ſeveral worthy Members whereof it's known (and before <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Com<g ref="char:EOLhyphen"/>mittee was proved) that the ſaid Mr. <hi>Gwyn</hi> at ſeveral times hath advan<g ref="char:EOLhyphen"/>ced MANY THOUSAND Pounds for the neceſſary Supplies of thoſe Pacquet Boats, without any reward for the ſame.</p>
+            <pb facs="tcp:175487:3"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
